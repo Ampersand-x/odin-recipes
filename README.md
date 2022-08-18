@@ -1,1 +1,2 @@
 # odin-recipes
+This is going to be the first real HTML exercise (boilerplate HTML, headlines, paragraphs, lists) including basic Git usage like commiting changes and pushing them to the GitHub repository
